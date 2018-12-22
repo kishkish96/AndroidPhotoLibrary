@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidPhotos79</string>
+
+    <string-array name="tagtype">
+        <item>Person</item>
+        <item>Location</item>
+    </string-array>
+
+    <string-array name="andor">
+        <item>And</item>
+        <item>Or</item>
+    </string-array>
+
+</resources>
